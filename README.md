@@ -1,5 +1,7 @@
 # 🌾 AgriGuardian
 
+![AgriGuardian Banner](Images/agriguardian banner.png)
+
 ## AI-Powered Smart Agriculture Monitoring & Decision Support System
 
 AgriGuardian is a smart farming solution designed to help farmers monitor field conditions, identify irrigation needs, and make better crop-management decisions using IoT sensors and artificial intelligence.
