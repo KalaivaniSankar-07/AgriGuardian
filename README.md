@@ -1,6 +1,6 @@
 # 🌾 AgriGuardian
 
-![AgriGuardian Banner](Images/agriguardian banner.png)
+![AgriGuardian Banner](Images/agriguardian-banner.png)
 
 ## AI-Powered Smart Agriculture Monitoring & Decision Support System
 
