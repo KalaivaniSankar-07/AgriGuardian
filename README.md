@@ -73,6 +73,10 @@ Based on the collected data, the platform provides farmers with irrigation recom
 
 ---
 
+### 🔄 Workflow Diagram
+
+![Workflow Diagram](Images/workflow.png)
+
 ## 🧰 Proposed Hardware
 
 - ESP32 Microcontroller
