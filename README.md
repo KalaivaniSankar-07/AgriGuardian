@@ -89,6 +89,9 @@ Based on the collected data, the platform provides farmers with irrigation recom
 - Power Supply
 
 ---
+### 🛠️ Hardware Setup Diagram
+
+![Hardware Setup Diagram](Images/hardware-setup.png)
 
 ## 💻 Proposed Software and Technologies
 
@@ -119,9 +122,16 @@ Farmer Dashboard and Mobile Alerts
       ↓
 Smart Irrigation Control
 ```
+![System Architecture](Images/system-architecture.png)
 ## 📊 Block Diagram
 
 ![Block Diagram](Images/block-diagram.png)
+
+## 💻 Dashboard Preview
+
+The AgriGuardian dashboard provides farmers with real-time field monitoring, AI-powered recommendations, irrigation control, and instant alerts through both web and mobile applications.
+
+![Dashboard Preview](Images/dashboard-preview.png)
 ## 🌱 Expected Benefits
 
 - Saves water
