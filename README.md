@@ -115,7 +115,9 @@ Farmer Dashboard and Mobile Alerts
       ↓
 Smart Irrigation Control
 ```
+## 📊 Block Diagram
 
+![Block Diagram](Images/block-diagram.png)
 ## 🌱 Expected Benefits
 
 - Saves water
